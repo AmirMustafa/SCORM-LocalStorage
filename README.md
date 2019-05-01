@@ -4,6 +4,7 @@ Any user can submit the question from any system and updated data fetched. This 
 
 There can be different question in different SCORM. Data is fetched based on question number.
 
+## Installation
 STEP1: In a course when you go to the course --> Turn Editing On --> SCORM activity --> Upload the SCORM plugin. Create two activities say 1 and 2.<br>
 
 STEP2: Open activity 1 answer the questions<br>
